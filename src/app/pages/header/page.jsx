@@ -1,13 +1,13 @@
 import Image from 'next/image';
 import React from 'react';
 import brandLogo from '../../../../public/brandlogo.jpg';
-import { FaUser, FaGift } from "react-icons/fa";
+import { FaUser, FaGift, FaShoppingBasket } from "react-icons/fa";
 import Link from 'next/link';
 
 
 const Header = () => {
     return (
-        <div className='header sticky top-0 z-10'>
+        <div className='header sticky top-0 z-20'>
             <section className='container-width py-2.5 flex justify-between items-center gap-6'>
                 <div className='w-2/6'>
                     <Link href={'/'} className='max-w-fit'>
@@ -23,18 +23,16 @@ const Header = () => {
                         placeholder='search for any products'
                     />
                 </div>
-                <div className='w-2/6 text-white text-2xl flex justify-end items-center gap-8'>
-                    <div className='flex items-center gap-3 cursor-pointer'>
+                <div className='w-2/6 text-white text-3xl flex justify-end items-center gap-8 me-3'>
+                    <div title='Offers' className='flex items-center gap-3 cursor-pointer'>
                         <FaGift className='primary' />
-                        <span className='text-sm'>
-                            Offers
-                        </span>
                     </div>
-                    <div className='flex items-center gap-3 cursor-pointer'>
+                    <div title='Cart' className='relative flex items-center gap-3 cursor-pointer'>
+                        <FaShoppingBasket className='primary' />
+                        <span className='absolute -top-1 -right-2 px-1.5 py-0.5 rounded-full bg-red-600 text-white text-xs font-medium'>8</span>
+                    </div>
+                    <div title='Account' className='flex items-center gap-3 cursor-pointer'>
                         <FaUser className='primary' />
-                        <span className='text-sm'>
-                            Accounts
-                        </span>
                     </div>
                 </div>
             </section>

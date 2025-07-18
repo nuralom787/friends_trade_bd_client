@@ -10,7 +10,7 @@ import offer3 from "../../../../public/free-service-campaign-web-banner-982x500.
 
 const BannerPage = () => {
     return (
-        <div className='space-y-10'>
+        <div className='space-y-10 font-poppins'>
             <section className='flex justify-between items-center content-center gap-6'>
                 <section className='w-4/6'>
                     <Swiper
@@ -42,8 +42,10 @@ const BannerPage = () => {
                 </section>
             </section>
             <section className='bg-white rounded-full py-2.5 px-6'>
-                <Marquee pauseOnHover>
-                    <p className='text-sm font-thin'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis fugiat ullam repudiandae animi excepturi fugit. Hic, doloremque officia. Architecto placeat quo ex! Corrupti provident consectetur aspernatur temporibus quo eaque minus tempora perferendis tenetur mollitia deserunt soluta eum ut quibusdam totam, est, saepe placeat fugit! Unde eos molestias voluptatum a quia!</p>
+                <Marquee pauseOnHover speed={100}>
+                    <p className='text-sm font-medium capitalize'>
+                        offline services are available 9am to 10pm. online services are available in 24/7. call for assistance 01711247713, 01711001756.
+                    </p>
                 </Marquee>
             </section>
         </div>

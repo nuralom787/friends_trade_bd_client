@@ -1,5 +1,17 @@
 @import "tailwindcss";
 
+.font-poppins {
+  font-family: var(--font-poppins);
+}
+
+.font-marvel {
+  font-family: var(--font-marvel);
+}
+
+.font-rajdhani {
+  font-family: var(--font-rajdhani);
+}
+
 :root {
   --s-primary: #eb9235;
   --s-primary-dark: #D51E0B;
@@ -17,11 +29,19 @@
   background-color: var(--s-hf-bg);
 }
 
+.footer {
+  background-color: var(--s-hf-bg);
+}
+
 main {
   background-color: var(--s-b-bg);
 }
 
 .primary {
+  color: var(--s-primary);
+}
+
+.primary-btn {
   color: var(--s-primary);
 }
 
@@ -42,6 +62,26 @@ main {
 .swiper-pagination-bullet-active {
   background-color: var(--s-secondary) !important;
 }
+
+/* 
+.divider {
+  white-space: nowrap;
+  height: 1rem;
+  margin: var(--divider-m, 1rem 0);
+  flex-direction: row;
+  align-self: stretch;
+  align-items: center;
+  display: flex;
+}
+
+.divider:before,
+.divider:after,
+.divider::backdrop {
+  box-sizing: border-box;
+  border: 1px solid;
+  margin: 0;
+  padding: 0;
+} */
 
 /* @theme inline {
   --color-background: var(--background);

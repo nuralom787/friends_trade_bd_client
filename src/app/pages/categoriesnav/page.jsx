@@ -2,7 +2,7 @@ import React from 'react';
 
 const CategoriesNav = () => {
     return (
-        <div className='bg-white sticky top-[75px] z-10'>
+        <div className='bg-white sticky top-[75px] z-20'>
             <nav className='container-width shadow-2xl'>
                 <ul className='flex justify-between items-center gap-4 flex-wrap text-sm font-semibold py-2.5'>
                     <li className='cursor-pointer hover:text-[#eb9235] duration-300'>Desktop</li>

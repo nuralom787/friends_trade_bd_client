@@ -1,4 +1,4 @@
-import { Poppins } from "next/font/google";
+import { Poppins, Marvel, Rajdhani } from "next/font/google";
 import "./globals.css";
 import 'swiper/css';
 import 'swiper/css/pagination';
@@ -10,8 +10,21 @@ import CategoriesNav from "./pages/categoriesnav/page";
 
 const poppins = Poppins({
   subsets: ["latin-ext"],
-  weight: "400"
-})
+  weight: "400",
+  variable: "--font-poppins"
+});
+
+const marvel = Marvel({
+  subsets: ["latin-ext"],
+  weight: "400",
+  variable: "--font-marvel"
+});
+
+const rajdhani = Rajdhani({
+  subsets: ["latin-ext"],
+  weight: "400",
+  variable: "--font-rajdhani"
+});
 
 export const metadata = {
   title: "Friends Trade International | Professional CCTV Service & Installation Service Provider In Bangladesh| We Have Also Other IT Products Like PC ,PC Accessories, Toner ETC. | Home",
@@ -21,7 +34,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${poppins.className}`}>
+      <body className={`${poppins.variable} ${marvel.variable} ${rajdhani.variable}`}>
         <InfoNav />
         <Header />
         <CategoriesNav />

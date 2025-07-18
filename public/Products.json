@@ -13,10 +13,10 @@
         ],
         "description": "Next-gen processor for extreme computing needs. Optimized for gaming and complex simulations.",
         "images": [
-            "https://picsum.photos/233/418?random=1",
-            "https://picsum.photos/967/888?random=1"
+            "https://i.ibb.co/ccDBpDfC/Quantum-Logic-Processor.png",
+            "https://i.ibb.co/ccDBpDfC/Quantum-Logic-Processor.png"
         ],
-        "thumb": "https://placekitten.com/299/272?random=1",
+        "thumb": "https://i.ibb.co/ccDBpDfC/Quantum-Logic-Processor.png",
         "sku": "QLP-7890-AB",
         "unit": "pcs",
         "status": "active",
@@ -43,10 +43,10 @@
         ],
         "description": "Efficient liquid cooling system for optimal CPU temperature management. Ultra-quiet operation.",
         "images": [
-            "https://picsum.photos/233/418?random=2",
-            "https://picsum.photos/967/888?random=2"
+            "https://i.ibb.co/VYb5Xyf6/Aero-Cool-3000-CPU-Cooler.png",
+            "https://i.ibb.co/VYb5Xyf6/Aero-Cool-3000-CPU-Cooler.png"
         ],
-        "thumb": "https://placekitten.com/299/272?random=2",
+        "thumb": "https://i.ibb.co/VYb5Xyf6/Aero-Cool-3000-CPU-Cooler.png",
         "sku": "ACC-3000-XY",
         "unit": "pcs",
         "status": "active",
@@ -73,10 +73,10 @@
         ],
         "description": "Unleash ultimate graphics performance with the Titan RTX 4090. Perfect for pro gamers and AI developers.",
         "images": [
-            "https://picsum.photos/233/418?random=3",
-            "https://picsum.photos/967/888?random=3"
+            "https://i.ibb.co/d4ZXCX4h/Titan-RTX-4090-GPU.png",
+            "https://i.ibb.co/d4ZXCX4h/Titan-RTX-4090-GPU.png"
         ],
-        "thumb": "https://placekitten.com/299/272?random=3",
+        "thumb": "https://i.ibb.co/d4ZXCX4h/Titan-RTX-4090-GPU.png",
         "sku": "TRTX-4090-ZX",
         "unit": "pcs",
         "status": "active",
@@ -103,10 +103,10 @@
         ],
         "description": "Boost your system's performance with HyperX Fury DDR5 RAM. Ideal for demanding applications and gaming.",
         "images": [
-            "https://picsum.photos/233/418?random=4",
-            "https://picsum.photos/967/888?random=4"
+            "https://i.ibb.co/27QxR1rD/Hyper-X-Fury-DDR5-64-GB.jpg",
+            "https://i.ibb.co/27QxR1rD/Hyper-X-Fury-DDR5-64-GB.jpg"
         ],
-        "thumb": "https://placekitten.com/299/272?random=4",
+        "thumb": "https://i.ibb.co/27QxR1rD/Hyper-X-Fury-DDR5-64-GB.jpg",
         "sku": "HXF-DDR5-64",
         "unit": "pcs",
         "status": "active",
@@ -133,10 +133,10 @@
         ],
         "description": "Experience lightning-fast data transfer with Samsung 990 Pro NVMe SSD. Perfect for OS and game loading.",
         "images": [
-            "https://picsum.photos/233/418?random=5",
-            "https://picsum.photos/967/888?random=5"
+            "https://i.ibb.co/B5P49F6W/Samsung-990-Pro-2-TB-NVMe-SSD.webp",
+            "https://i.ibb.co/B5P49F6W/Samsung-990-Pro-2-TB-NVMe-SSD.webp"
         ],
-        "thumb": "https://placekitten.com/299/272?random=5",
+        "thumb": "https://i.ibb.co/B5P49F6W/Samsung-990-Pro-2-TB-NVMe-SSD.webp",
         "sku": "SMG-990P-2T",
         "unit": "pcs",
         "status": "active",
@@ -163,10 +163,10 @@
         ],
         "description": "High-performance motherboard for Intel CPUs. Designed for extreme gaming and overclocking.",
         "images": [
-            "https://picsum.photos/233/418?random=6",
-            "https://picsum.photos/967/888?random=6"
+            "https://i.ibb.co/WWYkYgzN/ASUS-ROG-Strix-Z790-E-Gaming-Motherboard.png",
+            "https://i.ibb.co/WWYkYgzN/ASUS-ROG-Strix-Z790-E-Gaming-Motherboard.png"
         ],
-        "thumb": "https://placekitten.com/299/272?random=6",
+        "thumb": "https://i.ibb.co/WWYkYgzN/ASUS-ROG-Strix-Z790-E-Gaming-Motherboard.png",
         "sku": "ASZ-790E-GM",
         "unit": "pcs",
         "status": "active",
@@ -193,10 +193,10 @@
         ],
         "description": "Fully modular 1000W power supply with 80 PLUS Gold efficiency. Reliable power for high-end builds.",
         "images": [
-            "https://picsum.photos/233/418?random=7",
-            "https://picsum.photos/967/888?random=7"
+            "https://i.ibb.co/23PyN276/Corsair-RM1000e-Power-Supply.webp",
+            "https://i.ibb.co/23PyN276/Corsair-RM1000e-Power-Supply.webp"
         ],
-        "thumb": "https://placekitten.com/299/272?random=7",
+        "thumb": "https://i.ibb.co/23PyN276/Corsair-RM1000e-Power-Supply.webp",
         "sku": "CSR-RM1K-E",
         "unit": "pcs",
         "status": "active",
@@ -223,10 +223,10 @@
         ],
         "description": "Stylish mid-tower case with excellent airflow and tempered glass panels for showcasing your build.",
         "images": [
-            "https://picsum.photos/233/418?random=8",
-            "https://picsum.photos/967/888?random=8"
+            "https://i.ibb.co/pv0XTmwT/Lian-Li-O11-Dynamic-EVO-Case.jpg",
+            "https://i.ibb.co/pv0XTmwT/Lian-Li-O11-Dynamic-EVO-Case.jpg"
         ],
-        "thumb": "https://placekitten.com/299/272?random=8",
+        "thumb": "https://i.ibb.co/pv0XTmwT/Lian-Li-O11-Dynamic-EVO-Case.jpg",
         "sku": "LLI-O11D-EV",
         "unit": "pcs",
         "status": "active",
@@ -254,10 +254,10 @@
         ],
         "description": "Immersive ultrawide QD-OLED gaming monitor for unparalleled visual experience.",
         "images": [
-            "https://picsum.photos/233/418?random=9",
-            "https://picsum.photos/967/888?random=9"
+            "https://i.ibb.co/z9sX1Sy/Dell-Alienware-AW3423-DWF-QD-OLED-Monitor.webp",
+            "https://i.ibb.co/z9sX1Sy/Dell-Alienware-AW3423-DWF-QD-OLED-Monitor.webp"
         ],
-        "thumb": "https://placekitten.com/299/272?random=9",
+        "thumb": "https://i.ibb.co/z9sX1Sy/Dell-Alienware-AW3423-DWF-QD-OLED-Monitor.webp",
         "sku": "DEL-AW3423-DWF",
         "unit": "pcs",
         "status": "active",
@@ -285,10 +285,10 @@
         ],
         "description": "Ultra-lightweight wireless gaming mouse for competitive play. Precision and speed redefined.",
         "images": [
-            "https://picsum.photos/233/418?random=10",
-            "https://picsum.photos/967/888?random=10"
+            "https://i.ibb.co/8n2PxfRy/Logitech-G-Pro-X-Superlight-Wireless-Mouse.webp",
+            "https://i.ibb.co/8n2PxfRy/Logitech-G-Pro-X-Superlight-Wireless-Mouse.webp"
         ],
-        "thumb": "https://placekitten.com/299/272?random=10",
+        "thumb": "https://i.ibb.co/8n2PxfRy/Logitech-G-Pro-X-Superlight-Wireless-Mouse.webp",
         "sku": "LOG-GPX-SL",
         "unit": "pcs",
         "status": "active",
@@ -315,8 +315,8 @@
         ],
         "description": "Premium custom mechanical keyboard with QMK/VIA support. Fully customizable for your typing needs.",
         "images": [
-            "https://picsum.photos/233/418?random=11",
-            "https://picsum.photos/967/888?random=11"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=11",
         "sku": "KCH-Q2-QMK",
@@ -345,8 +345,8 @@
         ],
         "description": "Professional-grade USB condenser microphone for streaming, podcasting, and content creation.",
         "images": [
-            "https://picsum.photos/233/418?random=12",
-            "https://picsum.photos/967/888?random=12"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=12",
         "sku": "ELG-WAVE3-US",
@@ -375,8 +375,8 @@
         ],
         "description": "Industry-leading noise cancellation and superb sound quality for an immersive audio experience.",
         "images": [
-            "https://picsum.photos/233/418?random=13",
-            "https://picsum.photos/967/888?random=13"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=13",
         "sku": "SON-WH1KM5",
@@ -405,8 +405,8 @@
         ],
         "description": "Compact and powerful USB-C powered desktop speakers with impressive audio clarity.",
         "images": [
-            "https://picsum.photos/233/418?random=14",
-            "https://picsum.photos/967/888?random=14"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=14",
         "sku": "CRE-PBLV3-USBC",
@@ -435,8 +435,8 @@
         ],
         "description": "Next-generation Wi-Fi 6 router for blazing-fast internet speeds and seamless connectivity.",
         "images": [
-            "https://picsum.photos/233/418?random=15",
-            "https://picsum.photos/967/888?random=15"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=15",
         "sku": "NET-NHWK-AX12",
@@ -465,8 +465,8 @@
         ],
         "description": "Extend your Wi-Fi coverage to eliminate dead zones. Simple setup for instant signal boost.",
         "images": [
-            "https://picsum.photos/233/418?random=16",
-            "https://picsum.photos/967/888?random=16"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=16",
         "sku": "TPL-WA850RE",
@@ -495,8 +495,8 @@
         ],
         "description": "The latest Windows operating system for productivity and creativity. Professional edition.",
         "images": [
-            "https://picsum.photos/233/418?random=17",
-            "https://picsum.photos/967/888?random=17"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=17",
         "sku": "MSW-11P-OEM",
@@ -526,10 +526,10 @@
         ],
         "description": "Full access to Adobe's suite of creative applications for a year. Unleash your creativity.",
         "images": [
-            "https://picsum.photos/233/418?random=18",
-            "https://picsum.photos/967/888?random=18"
+            "https://i.ibb.co/VWydTSCY/Adobe-Creative-Cloud-Annual-Subscription.webp",
+            "https://i.ibb.co/VWydTSCY/Adobe-Creative-Cloud-Annual-Subscription.webp"
         ],
-        "thumb": "https://placekitten.com/299/272?random=18",
+        "thumb": "https://i.ibb.co/VWydTSCY/Adobe-Creative-Cloud-Annual-Subscription.webp",
         "sku": "ADB-CC-ANN",
         "unit": "subscription",
         "status": "active",
@@ -556,8 +556,8 @@
         ],
         "description": "Powerful 4-bay NAS for centralized data storage, backup, and media streaming.",
         "images": [
-            "https://picsum.photos/233/418?random=19",
-            "https://picsum.photos/967/888?random=19"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=19",
         "sku": "SYN-DS923P-NAS",
@@ -586,8 +586,8 @@
         ],
         "description": "Uninterruptible power supply to protect your electronics from power outages and surges.",
         "images": [
-            "https://picsum.photos/233/418?random=20",
-            "https://picsum.photos/967/888?random=20"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=20",
         "sku": "APC-BR1500MS",
@@ -616,8 +616,8 @@
         ],
         "description": "Anticipated next-generation graphics card for unprecedented gaming and rendering.",
         "images": [
-            "https://picsum.photos/233/418?random=21",
-            "https://picsum.photos/967/888?random=21"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=21",
         "sku": "NV-RTX-5090",
@@ -646,8 +646,8 @@
         ],
         "description": "Future AMD processor designed for multi-threaded workloads and extreme performance.",
         "images": [
-            "https://picsum.photos/233/418?random=22",
-            "https://picsum.photos/967/888?random=22"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=22",
         "sku": "AMD-R9-8950X",
@@ -677,8 +677,8 @@
         ],
         "description": "Compact 60% wireless gaming keyboard with adjustable mechanical switches.",
         "images": [
-            "https://picsum.photos/233/418?random=23",
-            "https://picsum.photos/967/888?random=23"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=23",
         "sku": "SST-APXPM-WL",
@@ -708,8 +708,8 @@
         ],
         "description": "Ergonomic wireless gaming mouse trusted by esports professionals for ultimate precision.",
         "images": [
-            "https://picsum.photos/233/418?random=24",
-            "https://picsum.photos/967/888?random=24"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=24",
         "sku": "RZR-DAV3P",
@@ -738,8 +738,8 @@
         ],
         "description": "Reliable 16TB hard drive designed for 24/7 operation in NAS systems.",
         "images": [
-            "https://picsum.photos/233/418?random=25",
-            "https://picsum.photos/967/888?random=25"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=25",
         "sku": "SGT-IWP-16T",
@@ -768,8 +768,8 @@
         ],
         "description": "High-performance DDR5 RAM with stunning RGB lighting for a premium build.",
         "images": [
-            "https://picsum.photos/233/418?random=26",
-            "https://picsum.photos/967/888?random=26"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=26",
         "sku": "CSR-DPRGB-32D5",
@@ -799,8 +799,8 @@
         ],
         "description": "Stunning 65-inch OLED TV with perfect blacks and vibrant colors for an immersive viewing experience.",
         "images": [
-            "https://picsum.photos/233/418?random=27",
-            "https://picsum.photos/967/888?random=27"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=27",
         "sku": "LG-C3-65",
@@ -829,8 +829,8 @@
         ],
         "description": "Award-winning dual tower CPU air cooler for exceptional cooling performance and silence.",
         "images": [
-            "https://picsum.photos/233/418?random=28",
-            "https://picsum.photos/967/888?random=28"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=28",
         "sku": "NOC-NHD15",
@@ -859,8 +859,8 @@
         ],
         "description": "Spacious full-tower case with excellent airflow and modular design for extreme builds.",
         "images": [
-            "https://picsum.photos/233/418?random=29",
-            "https://picsum.photos/967/888?random=29"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=29",
         "sku": "FDC-MSH2XL",
@@ -889,8 +889,8 @@
         ],
         "description": "850W Platinum-rated fully modular power supply for maximum efficiency and reliability.",
         "images": [
-            "https://picsum.photos/233/418?random=30",
-            "https://picsum.photos/967/888?random=30"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=30",
         "sku": "EVG-SN850P5",
@@ -919,8 +919,8 @@
         ],
         "description": "Renowned Bose noise cancellation and comfortable design for all-day listening.",
         "images": [
-            "https://picsum.photos/233/418?random=31",
-            "https://picsum.photos/967/888?random=31"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=31",
         "sku": "BOS-QC45",
@@ -949,8 +949,8 @@
         ],
         "description": "Versatile USB microphone ideal for podcasting, streaming, and voiceovers.",
         "images": [
-            "https://picsum.photos/233/418?random=32",
-            "https://picsum.photos/967/888?random=32"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=32",
         "sku": "BLU-YETI-US",
@@ -979,8 +979,8 @@
         ],
         "description": "All-in-one network appliance for advanced routing, security, and network management.",
         "images": [
-            "https://picsum.photos/233/418?random=33",
-            "https://picsum.photos/967/888?random=33"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=33",
         "sku": "UBQ-UDM-PRO",
@@ -1009,8 +1009,8 @@
         ],
         "description": "Comprehensive security suite protecting your devices from viruses, malware, and online threats.",
         "images": [
-            "https://picsum.photos/233/418?random=34",
-            "https://picsum.photos/967/888?random=34"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=34",
         "sku": "TRM-MS-1Y3D",
@@ -1039,8 +1039,8 @@
         ],
         "description": "Advanced wireless mouse designed for ultimate comfort, control, and productivity.",
         "images": [
-            "https://picsum.photos/233/418?random=35",
-            "https://picsum.photos/967/888?random=35"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=35",
         "sku": "LOG-MXM3S",
@@ -1069,8 +1069,8 @@
         ],
         "description": "Barebones mechanical keyboard for enthusiasts to build their perfect custom keyboard.",
         "images": [
-            "https://picsum.photos/233/418?random=36",
-            "https://picsum.photos/967/888?random=36"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=36",
         "sku": "GLO-GMMKP",
@@ -1099,8 +1099,8 @@
         ],
         "description": "Immersive 49-inch super ultrawide Mini-LED gaming monitor with stunning HDR.",
         "images": [
-            "https://picsum.photos/233/418?random=37",
-            "https://picsum.photos/967/888?random=37"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=37",
         "sku": "SMG-ODG9N",
@@ -1129,8 +1129,8 @@
         ],
         "description": "High-performance 360mm all-in-one liquid cooler for demanding CPU workloads.",
         "images": [
-            "https://picsum.photos/233/418?random=38",
-            "https://picsum.photos/967/888?random=38"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=38",
         "sku": "ARC-LFII-360",
@@ -1160,8 +1160,8 @@
         ],
         "description": "Large 48-inch 4K OLED gaming monitor, perfect for immersive PC gaming and console use.",
         "images": [
-            "https://picsum.photos/233/418?random=39",
-            "https://picsum.photos/967/888?random=39"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=39",
         "sku": "GIGA-FO48U",
@@ -1190,8 +1190,8 @@
         ],
         "description": "High-speed PCIe Gen4 NVMe SSD optimized for gaming and heavy workloads.",
         "images": [
-            "https://picsum.photos/233/418?random=40",
-            "https://picsum.photos/967/888?random=40"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=40",
         "sku": "WDC-SN850X-1T",
@@ -1220,8 +1220,8 @@
         ],
         "description": "High-performance AMD graphics card for immersive 4K gaming and content creation.",
         "images": [
-            "https://picsum.photos/233/418?random=41",
-            "https://picsum.photos/967/888?random=41"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=41",
         "sku": "AMD-R7900XTX",
@@ -1250,8 +1250,8 @@
         ],
         "description": "Flagship Intel CPU for unparalleled gaming and multi-tasking performance.",
         "images": [
-            "https://picsum.photos/233/418?random=42",
-            "https://picsum.photos/967/888?random=42"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=42",
         "sku": "INT-I9-14900K",
@@ -1280,8 +1280,8 @@
         ],
         "description": "Feature-rich motherboard for AMD Ryzen CPUs with integrated Wi-Fi.",
         "images": [
-            "https://picsum.photos/233/418?random=43",
-            "https://picsum.photos/967/888?random=43"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=43",
         "sku": "MSI-PB650P-WF",
@@ -1310,8 +1310,8 @@
         ],
         "description": "Mid-tower case with optimized airflow and a clean, minimalist design.",
         "images": [
-            "https://picsum.photos/233/418?random=44",
-            "https://picsum.photos/967/888?random=44"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=44",
         "sku": "NZXT-H7FL",
@@ -1340,8 +1340,8 @@
         ],
         "description": "Quiet and efficient Platinum-rated 860W power supply for reliable system operation.",
         "images": [
-            "https://picsum.photos/233/418?random=45",
-            "https://picsum.photos/967/888?random=45"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=45",
         "sku": "FDC-ION860P",
@@ -1370,8 +1370,8 @@
         ],
         "description": "High-fidelity wireless gaming headset with immersive sound and comfortable earcups.",
         "images": [
-            "https://picsum.photos/233/418?random=46",
-            "https://picsum.photos/967/888?random=46"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=46",
         "sku": "CSR-VRGX-XT",
@@ -1400,8 +1400,8 @@
         ],
         "description": "27-inch QHD gaming monitor with a blazing-fast 240Hz refresh rate for competitive gaming.",
         "images": [
-            "https://picsum.photos/233/418?random=47",
-            "https://picsum.photos/967/888?random=47"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=47",
         "sku": "HP-OMEN-27QS",
@@ -1430,8 +1430,8 @@
         ],
         "description": "Seamless whole-home Wi-Fi 6 coverage with this easy-to-setup mesh system.",
         "images": [
-            "https://picsum.photos/233/418?random=48",
-            "https://picsum.photos/967/888?random=48"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=48",
         "sku": "TPL-DECX50-3P",
@@ -1461,8 +1461,8 @@
         ],
         "description": "All-in-one security for your digital life, including antivirus, VPN, and privacy tools.",
         "images": [
-            "https://picsum.photos/233/418?random=49",
-            "https://picsum.photos/967/888?random=49"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=49",
         "sku": "BDF-TOTSEC25-5D",
@@ -1491,8 +1491,8 @@
         ],
         "description": "Durable and fast portable SSD for on-the-go storage and data transfer.",
         "images": [
-            "https://picsum.photos/233/418?random=50",
-            "https://picsum.photos/967/888?random=50"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=50",
         "sku": "SNDK-EXPSSD-2T",
@@ -1522,8 +1522,8 @@
         ],
         "description": "Next-generation Google smartphone with advanced AI features and camera technology.",
         "images": [
-            "https://picsum.photos/233/418?random=51",
-            "https://picsum.photos/967/888?random=51"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=51",
         "sku": "GGL-PX9P",
@@ -1552,8 +1552,8 @@
         ],
         "description": "Super thin and light laptop powered by the M3 chip, offering exceptional performance and battery life.",
         "images": [
-            "https://picsum.photos/233/418?random=52",
-            "https://picsum.photos/967/888?random=52"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=52",
         "sku": "APL-MBA-M3-15",
@@ -1582,8 +1582,8 @@
         ],
         "description": "Powerful cordless vacuum with laser detection to reveal microscopic dust.",
         "images": [
-            "https://picsum.photos/233/418?random=53",
-            "https://picsum.photos/967/888?random=53"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=53",
         "sku": "DYS-V15DA",
@@ -1612,8 +1612,8 @@
         ],
         "description": "Start your smart home lighting journey with vibrant colors and white light shades.",
         "images": [
-            "https://picsum.photos/233/418?random=54",
-            "https://picsum.photos/967/888?random=54"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=54",
         "sku": "PHL-HUE-WCAS",
@@ -1643,8 +1643,8 @@
         ],
         "description": "Next-gen Samsung flagship phone with cutting-edge camera and performance.",
         "images": [
-            "https://picsum.photos/233/418?random=55",
-            "https://picsum.photos/967/888?random=55"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=55",
         "sku": "SMG-GS25U",
@@ -1673,8 +1673,8 @@
         ],
         "description": "Incredibly lightweight 17-inch laptop offering a large display for productivity on the go.",
         "images": [
-            "https://picsum.photos/233/418?random=56",
-            "https://picsum.photos/967/888?random=56"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=56",
         "sku": "LG-GRAM-17-24",
@@ -1703,8 +1703,8 @@
         ],
         "description": "Smart thermostat with built-in Alexa, allowing voice control and energy savings.",
         "images": [
-            "https://picsum.photos/233/418?random=57",
-            "https://picsum.photos/967/888?random=57"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=57",
         "sku": "ECB-STP",
@@ -1733,8 +1733,8 @@
         ],
         "description": "Advanced video doorbell with 2K HDR video and 3D motion detection for enhanced home security.",
         "images": [
-            "https://picsum.photos/233/418?random=58",
-            "https://picsum.photos/967/888?random=58"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=58",
         "sku": "RNG-VDBP2",
@@ -1763,8 +1763,8 @@
         ],
         "description": "Versatile full-frame mirrorless camera for stunning photos and professional 4K video.",
         "images": [
-            "https://picsum.photos/233/418?random=59",
-            "https://picsum.photos/967/888?random=59"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=59",
         "sku": "SONY-A7IV",
@@ -1793,8 +1793,8 @@
         ],
         "description": "Ultra-light and foldable drone with a 4K camera and advanced obstacle sensing.",
         "images": [
-            "https://picsum.photos/233/418?random=60",
-            "https://picsum.photos/967/888?random=60"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=60",
         "sku": "DJI-MN4P",
@@ -1823,8 +1823,8 @@
         ],
         "description": "Rugged and waterproof action camera capturing stunning 5.3K video and 27MP photos.",
         "images": [
-            "https://picsum.photos/233/418?random=61",
-            "https://picsum.photos/967/888?random=61"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=61",
         "sku": "GPRO-H12B",
@@ -1853,8 +1853,8 @@
         ],
         "description": "Vibrant 7-inch OLED screen brings games to life on the go or at home.",
         "images": [
-            "https://picsum.photos/233/418?random=62",
-            "https://picsum.photos/967/888?random=62"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=62",
         "sku": "NINT-SWOLED",
@@ -1883,8 +1883,8 @@
         ],
         "description": "Slimmer version of the PlayStation 5, offering stunning 4K gaming and immersive experiences.",
         "images": [
-            "https://picsum.photos/233/418?random=63",
-            "https://picsum.photos/967/888?random=63"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=63",
         "sku": "SONY-PS5S",
@@ -1913,8 +1913,8 @@
         ],
         "description": "Microsoft's most powerful console, delivering true 4K gaming and blazing-fast load times.",
         "images": [
-            "https://picsum.photos/233/418?random=64",
-            "https://picsum.photos/967/888?random=64"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=64",
         "sku": "MSFT-XBSX",
@@ -1943,8 +1943,8 @@
         ],
         "description": "Stream your favorite content in stunning 4K HDR with a voice remote.",
         "images": [
-            "https://picsum.photos/233/418?random=65",
-            "https://picsum.photos/967/888?random=65"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=65",
         "sku": "ROKU-SS4K",
@@ -1973,8 +1973,8 @@
         ],
         "description": "Compact smart speaker with improved audio and Alexa voice assistant.",
         "images": [
-            "https://picsum.photos/233/418?random=66",
-            "https://picsum.photos/967/888?random=66"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=66",
         "sku": "AMZ-ECHODOT5",
@@ -2003,8 +2003,8 @@
         ],
         "description": "Wireless, battery-powered outdoor security cameras for comprehensive home surveillance.",
         "images": [
-            "https://picsum.photos/233/418?random=67",
-            "https://picsum.photos/967/888?random=67"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=67",
         "sku": "BLNK-OUT4-3P",
@@ -2033,8 +2033,8 @@
         ],
         "description": "Cartridge-free all-in-one printer with supersized ink tanks for significant savings.",
         "images": [
-            "https://picsum.photos/233/418?random=68",
-            "https://picsum.photos/967/888?random=68"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=68",
         "sku": "EPS-ET4850",
@@ -2063,8 +2063,8 @@
         ],
         "description": "Full HD 1080p webcam with privacy shutter for video calls and streaming.",
         "images": [
-            "https://picsum.photos/233/418?random=69",
-            "https://picsum.photos/967/888?random=69"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=69",
         "sku": "LOG-C920S",
@@ -2093,8 +2093,8 @@
         ],
         "description": "Compact 5TB external hard drive for portable storage and backup solutions.",
         "images": [
-            "https://picsum.photos/233/418?random=70",
-            "https://picsum.photos/967/888?random=70"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=70",
         "sku": "WDC-MP5T",
@@ -2123,8 +2123,8 @@
         ],
         "description": "Full-sized mechanical gaming keyboard with Chroma RGB lighting and macro keys.",
         "images": [
-            "https://picsum.photos/233/418?random=71",
-            "https://picsum.photos/967/888?random=71"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=71",
         "sku": "RZR-BWV4P",
@@ -2153,8 +2153,8 @@
         ],
         "description": "Compact and powerful gaming laptop with AMD Ryzen CPU and dedicated graphics.",
         "images": [
-            "https://picsum.photos/233/418?random=72",
-            "https://picsum.photos/967/888?random=72"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=72",
         "sku": "ASUS-RZG14",
@@ -2183,8 +2183,8 @@
         ],
         "description": "Premium Android tablet with a massive OLED display and powerful performance.",
         "images": [
-            "https://picsum.photos/233/418?random=73",
-            "https://picsum.photos/967/888?random=73"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=73",
         "sku": "SMG-GTS9U",
@@ -2213,8 +2213,8 @@
         ],
         "description": "Waterproof e-reader with a glare-free display for comfortable reading anywhere.",
         "images": [
-            "https://picsum.photos/233/418?random=74",
-            "https://picsum.photos/967/888?random=74"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=74",
         "sku": "AMZ-KPW-LG",
@@ -2243,8 +2243,8 @@
         ],
         "description": "Thin and light iPad Air with the powerful M2 chip for productivity and entertainment.",
         "images": [
-            "https://picsum.photos/233/418?random=75",
-            "https://picsum.photos/967/888?random=75"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=75",
         "sku": "APL-IPAIR-M2",
@@ -2273,8 +2273,8 @@
         ],
         "description": "Versatile 2-in-1 device offering laptop performance and tablet portability.",
         "images": [
-            "https://picsum.photos/233/418?random=76",
-            "https://picsum.photos/967/888?random=76"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=76",
         "sku": "MSFT-SURP10",
@@ -2303,8 +2303,8 @@
         ],
         "description": "High-resolution full-frame mirrorless camera capable of capturing stunning 8K video.",
         "images": [
-            "https://picsum.photos/233/418?random=77",
-            "https://picsum.photos/967/888?random=77"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=77",
         "sku": "CAN-EOS-R5",
@@ -2333,8 +2333,8 @@
         ],
         "description": "Top-tier Wi-Fi 6E mesh system for unparalleled speed and coverage in large homes.",
         "images": [
-            "https://picsum.photos/233/418?random=78",
-            "https://picsum.photos/967/888?random=78"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=78",
         "sku": "NET-ORBIE960",
@@ -2363,8 +2363,8 @@
         ],
         "description": "Affordable noise-cancelling headphones with comfortable design and long battery life.",
         "images": [
-            "https://picsum.photos/233/418?random=79",
-            "https://picsum.photos/967/888?random=79"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=79",
         "sku": "SON-WH720N",
@@ -2393,8 +2393,8 @@
         ],
         "description": "Reliable and fast SATA SSD for upgrading older systems or as secondary storage.",
         "images": [
-            "https://picsum.photos/233/418?random=80",
-            "https://picsum.photos/967/888?random=80"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=80",
         "sku": "SMG-870E-1T",
@@ -2423,8 +2423,8 @@
         ],
         "description": "Premium AIO liquid cooler with a customizable LCD screen for real-time monitoring and GIFs.",
         "images": [
-            "https://picsum.photos/233/418?random=81",
-            "https://picsum.photos/967/888?random=81"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=81",
         "sku": "CSR-H150I-LCDXT",
@@ -2453,8 +2453,8 @@
         ],
         "description": "Top-tier gaming laptop with powerful Intel CPU and NVIDIA RTX graphics for ultimate performance.",
         "images": [
-            "https://picsum.photos/233/418?random=82",
-            "https://picsum.photos/967/888?random=82"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=82",
         "sku": "LEN-LGP7I-G9",
@@ -2483,8 +2483,8 @@
         ],
         "description": "Premium truly wireless earbuds with industry-leading noise cancellation and superb audio.",
         "images": [
-            "https://picsum.photos/233/418?random=83",
-            "https://picsum.photos/967/888?random=83"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=83",
         "sku": "SON-WF1KM5",
@@ -2513,8 +2513,8 @@
         ],
         "description": "High-capacity 24,000mAh power bank with fast charging for laptops and smartphones.",
         "images": [
-            "https://picsum.photos/233/418?random=84",
-            "https://picsum.photos/967/888?random=84"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=84",
         "sku": "ANK-737PB-24K",
@@ -2543,8 +2543,8 @@
         ],
         "description": "Premium wireless keyboard with comfortable, backlit keys for fluid typing.",
         "images": [
-            "https://picsum.photos/233/418?random=85",
-            "https://picsum.photos/967/888?random=85"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=85",
         "sku": "LOG-MXKS",
@@ -2573,8 +2573,8 @@
         ],
         "description": "High-performance gaming keyboard with optical-mechanical switches and dynamic RGB.",
         "images": [
-            "https://picsum.photos/233/418?random=86",
-            "https://picsum.photos/967/888?random=86"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=86",
         "sku": "CSR-K100RGB",
@@ -2603,8 +2603,8 @@
         ],
         "description": "Intel's dedicated graphics card offering solid performance for mainstream gaming.",
         "images": [
-            "https://picsum.photos/233/418?random=87",
-            "https://picsum.photos/967/888?random=87"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=87",
         "sku": "INTEL-A770",
@@ -2633,8 +2633,8 @@
         ],
         "description": "Gaming powerhouse CPU with 3D V-Cache technology for exceptional frame rates.",
         "images": [
-            "https://picsum.photos/233/418?random=88",
-            "https://picsum.photos/967/888?random=88"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=88",
         "sku": "AMD-R7-7800X3D",
@@ -2663,8 +2663,8 @@
         ],
         "description": "Premium gaming motherboard with robust power delivery and Wi-Fi 6E.",
         "images": [
-            "https://picsum.photos/233/418?random=89",
-            "https://picsum.photos/967/888?random=89"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=89",
         "sku": "MSI-MPGB650C-WF",
@@ -2693,8 +2693,8 @@
         ],
         "description": "Mid-tower case with excellent airflow and pre-installed RGB fans for a vibrant build.",
         "images": [
-            "https://picsum.photos/233/418?random=90",
-            "https://picsum.photos/967/888?random=90"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=90",
         "sku": "LLI-LC3RGB",
@@ -2723,8 +2723,8 @@
         ],
         "description": "Reliable 850W 80 PLUS Gold certified power supply with quiet operation.",
         "images": [
-            "https://picsum.photos/233/418?random=91",
-            "https://picsum.photos/967/888?random=91"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=91",
         "sku": "SSN-FCSGX-850",
@@ -2753,8 +2753,8 @@
         ],
         "description": "Versatile USB microphone with stunning RGB lighting, perfect for streamers and gamers.",
         "images": [
-            "https://picsum.photos/233/418?random=92",
-            "https://picsum.photos/967/888?random=92"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=92",
         "sku": "HX-QCS-MIC",
@@ -2783,8 +2783,8 @@
         ],
         "description": "Iconic gaming mouse with LIGHTSPEED wireless technology and RGB lighting.",
         "images": [
-            "https://picsum.photos/233/418?random=93",
-            "https://picsum.photos/967/888?random=93"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=93",
         "sku": "LOG-G502XL",
@@ -2813,8 +2813,8 @@
         ],
         "description": "32-inch 4K IPS gaming monitor with high refresh rate for vibrant visuals and smooth gameplay.",
         "images": [
-            "https://picsum.photos/233/418?random=94",
-            "https://picsum.photos/967/888?random=94"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=94",
         "sku": "ACR-PX323QKNV",
@@ -2843,8 +2843,8 @@
         ],
         "description": "Excellent value PCIe Gen4 NVMe SSD for fast storage and improved system responsiveness.",
         "images": [
-            "https://picsum.photos/233/418?random=95",
-            "https://picsum.photos/967/888?random=95"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=95",
         "sku": "CRU-P5P-2T",
@@ -2873,8 +2873,8 @@
         ],
         "description": "Smart streaming dongle with Google TV for access to all your favorite apps in 4K HDR.",
         "images": [
-            "https://picsum.photos/233/418?random=96",
-            "https://picsum.photos/967/888?random=96"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=96",
         "sku": "GGL-CC-GTV4K",
@@ -2903,8 +2903,8 @@
         ],
         "description": "Control your devices from anywhere with these compact smart plugs. Compatible with Alexa and Google Assistant.",
         "images": [
-            "https://picsum.photos/233/418?random=97",
-            "https://picsum.photos/967/888?random=97"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=97",
         "sku": "TPL-KSM-4P",
@@ -2933,8 +2933,8 @@
         ],
         "description": "Gaming headset with haptic feedback for a truly immersive audio experience.",
         "images": [
-            "https://picsum.photos/233/418?random=98",
-            "https://picsum.photos/967/888?random=98"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=98",
         "sku": "RZR-KV3HS",
@@ -2964,8 +2964,8 @@
         ],
         "description": "Brilliant 75-inch Neo QLED 4K TV with Mini-LED technology for incredible contrast and brightness.",
         "images": [
-            "https://picsum.photos/233/418?random=99",
-            "https://picsum.photos/967/888?random=99"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=99",
         "sku": "SMG-QN90C-75",
@@ -2994,8 +2994,8 @@
         ],
         "description": "Immersive spatial audio experience from a compact smart speaker with multi-room capabilities.",
         "images": [
-            "https://picsum.photos/233/418?random=100",
-            "https://picsum.photos/967/888?random=100"
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp",
+            "https://i.ibb.co/C3wpzxNS/38903-000100-200x200.webp"
         ],
         "thumb": "https://placekitten.com/299/272?random=100",
         "sku": "SON-ERA300",
