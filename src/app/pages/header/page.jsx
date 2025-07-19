@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import brandLogo from '../../../../public/brandlogo.jpg';
-import { FaUser, FaGift, FaShoppingBasket } from "react-icons/fa";
+import { FaUser, FaGift, FaShoppingBasket, FaSearch } from "react-icons/fa";
 import Link from 'next/link';
 
 
@@ -14,15 +14,20 @@ const Header = () => {
                         <Image src={brandLogo} alt='company logo' width={100} height={100} loading='lazy' />
                     </Link>
                 </div>
-                <div className='w-4/6'>
-                    <input
-                        type="search"
-                        name=""
-                        id=""
-                        className='w-full bg-white border border-gray-200 outline-0 rounded-md py-2 px-3'
-                        placeholder='search for any products'
-                    />
-                </div>
+                <form className='w-4/6'>
+                    <span className='w-full bg-white border border-gray-200 rounded-sm inline-flex items-center font-rajdhani font-semibold text-[#151515]'>
+                        <input
+                            type="search"
+                            name=""
+                            id=""
+                            className='w-full outline-0 py-2 px-3'
+                            placeholder='search for any products'
+                        />
+                        <button type="submit" className='cursor-pointer'>
+                            <FaSearch className='mx-4 text-gray-600 font-medium' />
+                        </button>
+                    </span>
+                </form>
                 <div className='w-2/6 text-white text-3xl flex justify-end items-center gap-8 me-3'>
                     <div title='Offers' className='flex items-center gap-3 cursor-pointer'>
                         <FaGift className='primary' />

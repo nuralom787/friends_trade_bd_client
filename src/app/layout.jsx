@@ -9,19 +9,19 @@ import Footer from "./pages/footer/page";
 import CategoriesNav from "./pages/categoriesnav/page";
 
 const poppins = Poppins({
-  subsets: ["latin-ext"],
+  subsets: ["latin"],
   weight: "400",
   variable: "--font-poppins"
 });
 
 const marvel = Marvel({
-  subsets: ["latin-ext"],
+  subsets: ["latin"],
   weight: "400",
   variable: "--font-marvel"
 });
 
 const rajdhani = Rajdhani({
-  subsets: ["latin-ext"],
+  subsets: ["latin"],
   weight: "400",
   variable: "--font-rajdhani"
 });
