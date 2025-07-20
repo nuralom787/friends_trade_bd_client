@@ -7,7 +7,7 @@ import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 const Footer = () => {
     return (
         <div className='footer'>
-            <div className='container-width py-16 flex justify-between items-start gap-8 text-white font-rajdhani'>
+            <div className='container-width px-3 md:px-6 py-16 flex justify-between items-start gap-8 text-white font-rajdhani'>
                 <section className='w-2/6 flex flex-col'>
                     <h1 className='font-semibold text-xl leading-12 mb-5 border-b border-gray-200'>Feel Free To Say Hello.</h1>
                     <div className='space-y-2.5 mb-3.5'>

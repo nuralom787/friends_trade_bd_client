@@ -11,8 +11,8 @@ import offer3 from "../../../../public/free-service-campaign-web-banner-982x500.
 const BannerPage = () => {
     return (
         <div className='space-y-10 font-poppins'>
-            <section className='flex justify-between items-center content-center gap-6'>
-                <section className='w-4/6'>
+            <section className='flex flex-col md:flex-row justify-between items-center content-center gap-6'>
+                <section className='w-full md:w-4/6'>
                     <Swiper
                         spaceBetween={30}
                         centeredSlides={true}
@@ -36,7 +36,7 @@ const BannerPage = () => {
                         </SwiperSlide>
                     </Swiper>
                 </section>
-                <section className='w-2/6 space-y-6'>
+                <section className='w-full md:w-2/6 space-y-6'>
                     <Image src={offer2} alt="offer" loading='lazy' />
                     <Image src={offer3} alt="offer" loading='lazy' />
                 </section>

@@ -3,6 +3,7 @@ import "./globals.css";
 import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
+import 'react-modern-drawer/dist/index.css'
 import InfoNav from "./pages/infonav/page";
 import Header from "./pages/header/page";
 import Footer from "./pages/footer/page";
