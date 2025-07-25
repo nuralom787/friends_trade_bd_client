@@ -2,8 +2,8 @@ import React from 'react';
 
 const CategoriesNav = () => {
     return (
-        <div className='bg-white sticky top-[63px] z-20 hidden md:block'>
-            <nav className='container-width px-3 md:px-6 shadow-2xl'>
+        <div className='bg-white sticky top-[63px] z-20 hidden md:block shadow-2xl'>
+            <nav className='container-width px-3 md:px-6'>
                 <ul className='flex justify-between items-center gap-4 flex-wrap text-sm font-semibold py-2.5'>
                     <li className='cursor-pointer hover:text-[#eb9235] duration-300'>Desktop</li>
                     <li className='cursor-pointer hover:text-[#eb9235] duration-300'>Laptop</li>
