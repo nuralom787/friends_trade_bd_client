@@ -2122,29 +2122,49 @@ const ProductDetailsPage = ({ params }) => {
 
     return (
         <div className=''>
-            <section className='container-width px-3 md:px-6 py-8 flex flex-col md:flex-row items-start gap-8 font-poppins'>
-                <div>
-                    <Image src={filteredData?.images[0]} alt={filteredData?.title} height={500} width={500} loading='lazy' />
-                    <div className='flex items-center gap-4'>
-                        {
-                            filteredData?.images?.map((image, idx) => <Image
-                                key={idx}
-                                src={image}
-                                alt={filteredData?.title}
-                                height={100}
-                                width={100}
-                                loading='lazy'
-                            />)
-                        }
+            <section className='bg-white mb-10'>
+                <section className='container-width px-3 md:px-6 py-12 flex flex-col md:flex-row items-start gap-8 font-poppins'>
+                    <div>
+                        <Image src={filteredData?.images[0]} alt={filteredData?.title} height={500} width={500} loading='lazy' />
+                        <div className='flex items-center gap-4'>
+                            {
+                                filteredData?.images?.map((image, idx) => <Image
+                                    key={idx}
+                                    src={image}
+                                    alt={filteredData?.title}
+                                    height={100}
+                                    width={100}
+                                    loading='lazy'
+                                />)
+                            }
+                        </div>
                     </div>
-                </div>
-                <div className='space-y-5'>
-                    <h1 className='text-3xl text-[#151515] font-bold'>{filteredData?.title}</h1>
-                    <p className='text-sm font-medium'>{filteredData?.description}</p>
-                    <h1 className='font-bold text-3xl text-red-600'>{filteredData?.currentPrice}৳
-                        <span className='ms-3 line-through text-lg text-gray-600 font-semibold'>{filteredData?.originalPrice}৳</span>
-                    </h1>
-                </div>
+                    <div className='space-y-5'>
+                        <h1 className='text-3xl text-[#151515] font-bold font-marvel'>{filteredData?.title}</h1>
+                        <div className='flex items-center gap-3 text-gray-500 text-xs font-medium'>
+                            <span className='inline-flex items-center gap-2 bg-gray-200 px-3.5 py-1.5 rounded-full'>
+                                Price: <span className='text-black'>
+                                    {filteredData?.currentPrice.toFixed(2)}৳</span>
+                            </span>
+                            <span className='inline-flex items-center gap-2 bg-gray-200 px-3.5 py-1.5 rounded-full'>
+                                Reguler Price: <span className='text-black'>
+                                    {filteredData?.originalPrice.toFixed(2)}৳</span>
+                            </span>
+                            <span className='inline-flex items-center gap-2 bg-gray-200 px-3.5 py-1.5 rounded-full'>
+                                Status: <span className='text-black'>
+                                    {filteredData?.stock}</span>
+                            </span>
+                            <span className='inline-flex items-center gap-2 bg-gray-200 px-3.5 py-1.5 rounded-full'>
+                                Product Code: <span className='text-black'>
+                                    {filteredData?.sku}</span>
+                            </span>
+                        </div>
+                        <p className='text-sm font-medium'>{filteredData?.description}</p>
+                        <h1 className='font-bold text-3xl text-red-600'>{filteredData?.currentPrice.toFixed(2)}৳
+                            <span className='ms-3 line-through text-lg text-gray-600 font-semibold'>{filteredData?.originalPrice.toFixed(2)}৳</span>
+                        </h1>
+                    </div>
+                </section>
             </section>
         </div>
     );
