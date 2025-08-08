@@ -8,6 +8,7 @@ import InfoNav from "./pages/infonav/page";
 import Header from "./pages/header/page";
 import Footer from "./pages/footer/page";
 import CategoriesNav from "./pages/categoriesnav/page";
+import NextAuthSessionProvider from "@/Providers/NextAuthSessionProvider";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -35,15 +36,17 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${poppins.variable} ${marvel.variable} ${rajdhani.variable}`}>
-        <InfoNav />
-        <Header />
-        <CategoriesNav />
-        <main>
-          {children}
-        </main>
-        <Footer />
-      </body>
+      <NextAuthSessionProvider>
+        <body className={`${poppins.variable} ${marvel.variable} ${rajdhani.variable}`}>
+          <InfoNav />
+          <Header />
+          <CategoriesNav />
+          <main>
+            {children}
+          </main>
+          <Footer />
+        </body>
+      </NextAuthSessionProvider>
     </html>
   );
 }

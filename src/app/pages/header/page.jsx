@@ -4,6 +4,7 @@ import brandLogo from '../../../../public/brandlogo.jpg';
 import { FaUser, FaGift, FaShoppingBasket, FaSearch } from "react-icons/fa";
 import Link from 'next/link';
 import DrawerComponent from '@/app/components/Drawer';
+import LoginButton from '@/app/components/login';
 
 
 const Header = () => {
@@ -43,8 +44,9 @@ const Header = () => {
                         <FaShoppingBasket className='primary text-2xl md:text-3xl' />
                         <span className='absolute -top-1 -right-2 px-1 rounded-full bg-red-600 text-white text-[10px] md:text-xs font-medium'>8</span>
                     </div>
-                    <div title='Account' className=' hidden md:flex items-center gap-3 cursor-pointer'>
-                        <FaUser className='primary' />
+                    <div title='Account' className='hidden md:flex items-center gap-3 cursor-pointer'>
+                        {/* <FaUser className='primary' /> */}
+                        <LoginButton />
                     </div>
                 </div>
             </section>

@@ -1,11 +1,9 @@
-import axios from "axios";
+import dbConnect from "./dbConnect";
 
 const getAllProducts = async () => {
-    const baseURL = "http://localhost:3000" || process.env.NEXT_PUBLIC_BASE_URL;
-
-    const result = await axios.get(`${baseURL}/products.json`)
-
-    return result.data;
+    const result = await dbConnect("products").find({}).toArray();
+    // const res = result.json();
+    return result;
 };
 
 export default getAllProducts;

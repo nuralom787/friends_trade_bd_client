@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 const InfoNav = () => {
@@ -11,7 +12,11 @@ const InfoNav = () => {
                 </ul>
                 <ul className='flex justify-around items-center gap-8'>
                     <li className='cursor-pointer hover:text-[#eb9235] hover:underline duration-300'>Privacy Policy</li>
-                    <li className='cursor-pointer hover:text-[#eb9235] hover:underline duration-300'>Accounts</li>
+                    <li className='cursor-pointer hover:text-[#eb9235] hover:underline duration-300'>
+                        <Link href={'/user/account'}>
+                            Accounts
+                        </Link>
+                    </li>
                 </ul>
             </section>
         </nav>
