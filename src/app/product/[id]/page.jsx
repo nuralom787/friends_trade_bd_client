@@ -1,8 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
 
-export const dynamic = "force-dynamic";
-
 const ProductDetailsPage = async ({ params }) => {
     const { NEXT_PUBLIC_BASE_URL } = process.env;
     const id = await params.id;
