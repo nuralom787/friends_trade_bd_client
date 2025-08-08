@@ -6,8 +6,8 @@ export const dynamic = "force-dynamic";
 const ProductDetailsPage = async ({ params }) => {
     const { NEXT_PUBLIC_BASE_URL } = process.env;
     const id = await params.id;
-    const productsData = await fetch(`http://localhost:3000/api/products/${id}`);
-    const product = await productsData.json();
+    const res = await fetch(`${NEXT_PUBLIC_BASE_URL}/api/products/${id}`);
+    const product = await res.json();
     // const products = [
     //     {
     //         "id": 1,
