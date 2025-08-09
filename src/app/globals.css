@@ -62,34 +62,14 @@ main {
   background-color: var(--s-secondary) !important;
 }
 
-/* 
-.divider {
-  white-space: nowrap;
-  height: 1rem;
-  margin: var(--divider-m, 1rem 0);
-  flex-direction: row;
-  align-self: stretch;
-  align-items: center;
-  display: flex;
-}
-
-.divider:before,
-.divider:after,
-.divider::backdrop {
-  box-sizing: border-box;
-  border: 1px solid;
-  margin: 0;
-  padding: 0;
-} */
-
-/* @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+@theme {
+  --color-primary: var(--s-primary);
+  /* --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-mono: var(--font-geist-mono); */
 }
 
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
   :root {
     --background: #0F172A;
     --foreground: #ededed;

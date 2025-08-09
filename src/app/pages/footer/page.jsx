@@ -1,7 +1,6 @@
 import React from 'react';
 import { MdOutlineHeadsetMic } from "react-icons/md";
 import { IoIosMail } from "react-icons/io";
-import Image from 'next/image';
 import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 
 const Footer = () => {

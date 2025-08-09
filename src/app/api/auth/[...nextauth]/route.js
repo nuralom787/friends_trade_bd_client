@@ -17,7 +17,7 @@ export const authOptions = {
                 //     headers: { "Content-Type": "application/json" }
                 // })
                 // const user = await res.json()
-                const user = { name: credentials.username, email: credentials.email };
+                const user = { name: credentials.username, email: credentials.email, password: credentials.password };
 
                 // If no error and we have user data, return it
                 if (user) {
