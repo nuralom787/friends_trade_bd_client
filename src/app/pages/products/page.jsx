@@ -1,3 +1,4 @@
+import getAllProducts from '@/app/actions/Products/getAllProducts';
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
@@ -5,9 +6,10 @@ import React from 'react';
 // export const fetchCache = "default-no-store";
 
 const Products = async () => {
-    const { NEXT_PUBLIC_BASE_URL } = process.env;
-    const res = await fetch(`${NEXT_PUBLIC_BASE_URL}/api/products`, { cache: "no-store" });
-    const products = await res.json();
+    // const { NEXT_PUBLIC_BASE_URL } = process.env;
+    // const res = await fetch(`${NEXT_PUBLIC_BASE_URL}/api/products`, { cache: "no-store" });
+    // const products = await res.json();
+    const products = await getAllProducts();
     // console.log(data);
     // const products = [
     //     {

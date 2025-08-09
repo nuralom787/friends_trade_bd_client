@@ -1,11 +1,13 @@
+import getSingleProduct from '@/app/actions/Products/getSingleProduct';
 import Image from 'next/image';
 import React from 'react';
 
 const ProductDetailsPage = async ({ params }) => {
-    const { NEXT_PUBLIC_BASE_URL } = process.env;
+    // const { NEXT_PUBLIC_BASE_URL } = process.env;
     const id = await params.id;
-    const res = await fetch(`${NEXT_PUBLIC_BASE_URL}/api/products/${id}`);
-    const product = await res.json();
+    // const res = await fetch(`${NEXT_PUBLIC_BASE_URL}/api/products/${id}`);
+    // const product = await res.json();
+    const product = await getSingleProduct(id);
     // const products = [
     //     {
     //         "id": 1,
