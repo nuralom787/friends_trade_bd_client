@@ -1,11 +1,23 @@
 'use client';
 
+import registerUser from "@/app/actions/auth/registration";
+
 const UserRegistrationPage = () => {
-    const handleSubmit = (e) => {
+
+
+
+    const handleSubmit = async (e) => {
         e.preventDefault();
+
         const form = e.target;
-        const data = { name: form.displayName.value, email: form.email.value, pass: form.password.value };
-        console.log(data)
+        const displayName = form.displayName.value;
+        const email = form.email.value;
+        const password = form.password.value;
+        const payload = { displayName, email, password };
+        console.log("From PayLoad", payload);
+
+        const result = await registerUser(payload);
+        console.log(result);
     };
 
 
