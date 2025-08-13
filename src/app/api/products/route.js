@@ -1,7 +1,7 @@
-import dbConnect from "@/lib/dbConnect";
+import dbConnect, { collectionName } from "@/lib/dbConnect";
 
 export async function GET() {
-    const result = await dbConnect("products").find({}).toArray();
+    const result = await dbConnect(collectionName.PRODUCTS).find({}).toArray();
     return Response.json(result);
 };
 

@@ -41,7 +41,7 @@ export default function RootLayout({ children }) {
           <InfoNav />
           <Header />
           <CategoriesNav />
-          <main>
+          <main className="min-h-screen">
             {children}
           </main>
           <Footer />
